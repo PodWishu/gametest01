@@ -1,0 +1,5 @@
+pokg 8500 
+wcv 3000 
+sdf 3000 
+poki 800 
+ji 700 
